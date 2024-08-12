@@ -72,7 +72,7 @@
 - Machine Learning & Data Science
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda, sklearn, selenium" />
+    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,selenium" />
   </a>
 </p>
 
