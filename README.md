@@ -72,14 +72,14 @@
 - Machine Learning & Data Science
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,selenium" />
+    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,selenium" />
   </a>
 </p>
 
 - Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman,ubuntu,linux" />
+    <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,pycharm,postman,ubuntu,linux" />
   </a>
 </p>
 
