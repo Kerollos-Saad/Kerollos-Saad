@@ -93,8 +93,9 @@
 ![Kerollos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerollos-Saad\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kerollos-Saad&theme=midnight-purple)](https://git.io/streak-stats)
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerollos-Saad&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 </div>
 
