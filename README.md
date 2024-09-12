@@ -94,6 +94,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kerollos-Saad&theme=midnight-purple)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerollos-Saad&theme=midnight-purple&include_all_commits=true&count_private=true&layout=donut)]
+
 </div>
 
 <br><br>
