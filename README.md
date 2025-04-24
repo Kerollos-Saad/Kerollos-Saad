@@ -58,21 +58,21 @@
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery" />
   </a>
 </p>
 
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sqlserver,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mongodb,sqlserver" />
   </a>
 </p>
 
 - Machine Learning & Data Science
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,selenium" />
+    <img src="https://skillicons.dev/icons?i=anaconda,sklearn,pytorch,opencv,selenium" />
   </a>
 </p>
 
@@ -92,7 +92,6 @@
  
 ![Kerollos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerollos-Saad\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kerollos-Saad&theme=midnight-purple)](https://git.io/streak-stats)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerollos-Saad&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
