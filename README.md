@@ -89,12 +89,25 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
- 
-![Kerollos's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kerollos-Saad\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerollos-Saad&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Kerollos-Saad&show_icons=true&theme=chartreuse-dark&show=reviews,prs_merged,prs_merged_percentage">
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kerollos-Saad&hide_progress=true&theme=chartreuse-dark">
+    </td>
+  </tr>
+   
+  <!-- Profile Details -->
+  
+  <tr>
+    <td colspan="2" style="text-align: center;">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kerollos-Saad&theme=gruvbox" alt="Profile Details" style="width: 100%; max-width: 800px;" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
