@@ -109,11 +109,17 @@
   </tr>
 </table>
 
+<be><br>
+## 👀 Visitor Count
+
+![Visitor Count](https://profile-counter.glitch.me/{kerollos-saad}/count.svg)
+
 </div>
 
 <br><br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 
 <!---
 Kerollos-Saad/Kerollos-Saad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
